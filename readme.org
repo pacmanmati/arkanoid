@@ -3,5 +3,7 @@
 #+begin_src bash
 pacman -S sfml
 sudo chmod +x run.sh
-./run.sh
+./run.sh main
 #+end_src
+** Windows
+SFML is pretty portable, should work under Cygwin/MSVC provided SFML is installed.
