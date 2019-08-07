@@ -1,0 +1,6 @@
+* Build
+** Linux
+#+begin_src bash
+sudo chmod +x run.sh
+./run.sh
+#+end_src
