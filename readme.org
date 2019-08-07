@@ -1,6 +1,7 @@
 * Build
 ** Linux
 #+begin_src bash
+pacman -S sfml
 sudo chmod +x run.sh
 ./run.sh
 #+end_src
